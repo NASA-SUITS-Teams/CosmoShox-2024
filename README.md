@@ -1,6 +1,6 @@
 # COSMOS
 
-COSMOS stands for CosmoShox On-Site Martian Overlay System, and this project is being developed by an interdisciplinary team from Wichita State University
+COSMOS stands for CosmoShox On-Site Martian Overlay System, and this project is being developed by an interdisciplinary team from **Wichita State University**
 
 ## Meet the Team
 - **Yumi Kikuchi - Co Leader**  ---> [Github](https://github.com/yvmi)
@@ -12,6 +12,3 @@ COSMOS stands for CosmoShox On-Site Martian Overlay System, and this project is 
 - **Savannah Denny - Graphic Designer** ---> [Github](https://github.com/SavDenny)
 - **Desmond Cockrell - Visual and Graphic Designer** ---> [Github](https://github.com/DesmondC15)
 
-## License
-
-[LINK](https://choosealicense.com/licenses)
